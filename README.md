@@ -3,7 +3,15 @@ A neat mod that I put together that replaces some (in my opinion) useless crafti
 
 To install it 
 1- navigate to you're "scrap mechanic" folder in you're steamapps folder.
+
 2- go into the "survival" folder
+
 3- go into the "crafting recipes" folder
+
 4- open the file "craftbot" with notepad++
-5- remove all of the code in the "craftbot" file and replace it with the code in the other file of this .zip
+
+5- remove all of the code in the "craftbot" file and replace it with the code in the "craftbot" file the came with the readme
+
+If it doesnt work dont worry, you're game isn't screwed. You can simply delete the "craftbot" file from you're "crafting recipes" folder and then validate you're files over steam.
+
+Enjoy and have fun!
